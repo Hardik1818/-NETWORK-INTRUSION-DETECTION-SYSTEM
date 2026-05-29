@@ -1,0 +1,62 @@
+{
+  "class_names": [
+    "analysis",
+    "backdoor",
+    "dos",
+    "exploits",
+    "fuzzers",
+    "generic",
+    "normal",
+    "reconnaissance",
+    "shellcode",
+    "worms"
+  ],
+  "n_classes": 10,
+  "n_features_selected": 30,
+  "selected_feature_names": [
+    "dur",
+    "proto",
+    "service",
+    "state",
+    "spkts",
+    "dpkts",
+    "sbytes",
+    "dbytes",
+    "rate",
+    "sttl",
+    "dttl",
+    "sload",
+    "dload",
+    "dloss",
+    "sinpkt",
+    "dinpkt",
+    "sjit",
+    "djit",
+    "tcprtt",
+    "synack",
+    "ackdat",
+    "smean",
+    "dmean",
+    "ct_srv_src",
+    "ct_state_ttl",
+    "ct_dst_ltm",
+    "ct_src_dport_ltm",
+    "ct_dst_sport_ltm",
+    "ct_dst_src_ltm",
+    "ct_srv_dst"
+  ],
+  "results": {
+    "random_forest": {
+      "accuracy": 0.7538396610034162,
+      "f1": 0.7386145504264408
+    },
+    "svm": {
+      "accuracy": 0.7357663067964709,
+      "f1": 0.734562399211346
+    },
+    "mlp": {
+      "accuracy": 0.7555220969425291,
+      "f1": 0.7493081743467119
+    }
+  }
+}
