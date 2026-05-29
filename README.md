@@ -108,18 +108,6 @@ Push to GitHub
 
 ---
 
-## 📊 Model Performance
-
-| Model | Accuracy | F1-Score |
-|---|---|---|
-| Random Forest | ~97% | ~0.97 |
-| SVM | ~95% | ~0.95 |
-| MLP (Deep Learning) | ~98% | ~0.98 |
-
-*Exact values appear in the app after training.*
-
----
-
 ## 📖 Dataset Citation
 
 > Moustafa, N., & Slay, J. (2015). UNSW-NB15: A comprehensive data set for
@@ -128,5 +116,4 @@ Push to GitHub
 ---
 
 ## 👤 Authors
-
-- Your Name — Academic Submission · 2024/2025
+- Hardik Thapaliya
