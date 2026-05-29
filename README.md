@@ -2,8 +2,7 @@
 
 **Multiclass traffic classification using Random Forest · SVM · MLP Deep Learning**
 
-[![CI/CD](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/<your-repo>/actions)
-
+[![CI/CD](https://github.com/Hardik1818/-NETWORK-INTRUSION-DETECTION-SYSTEM/actions/workflows/ci.yml/badge.svg)](https://github.com/Hardik1818/-NETWORK-INTRUSION-DETECTION-SYSTEM/actions)
 ---
 
 ## 📁 Project Structure
